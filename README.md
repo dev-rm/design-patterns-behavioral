@@ -19,3 +19,6 @@ A design pattern is a recurring solution to common problems in software design. 
 - Strategy
 - Template method
 - Visitor
+
+### Strategy Pattern
+- used when you want to enable the strategy or algorithm to be selected at runtime.
